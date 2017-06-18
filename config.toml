@@ -6,7 +6,7 @@ theme= "osprey"
   author = "Ezra Goss"
   logoBig = "/images/logo.png"
   logoSmall = "/images/Mlogo.png"
-  favicon = "favicon.ico"
+  favicon = "/images/favicon.ico"
   copyright = true
 
 [[menu.main]]
