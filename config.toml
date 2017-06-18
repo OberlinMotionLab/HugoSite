@@ -10,9 +10,11 @@ canonifyURLs = true
 
 [Params]
   author = "Ezra Goss"
+  logoBig = "/images/logo.png"
   logoSmall = "/images/Mlogo.png"
-  favicon = "/images/not.ico"
-  copyright = false
+  favicon = "favicon.ico"
+  copyright = true
+  customCSS = false
 
 [[menu.main]]
   name = "Projects"
