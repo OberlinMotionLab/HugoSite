@@ -1,0 +1,2 @@
+# HugoSite
+Hugo repo
