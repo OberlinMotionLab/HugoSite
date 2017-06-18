@@ -1,0 +1,25 @@
+languageCode = "en-us"
+title = "Oberlin Motion Lab"
+theme= "osprey"
+
+[Params]
+  author = "Ezra Goss"
+  logoBig = "/images/logo.png"
+  logoSmall = "/images/Mlogo.png"
+  favicon = "favicon.ico"
+  copyright = true
+
+[[menu.main]]
+  name = "Projects"
+  url = "/#work"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  url = "/#blog"
+  weight = 2
+
+[[menu.main]]
+  name = "Contact"
+  url = "/#contact"
+  weight = 3
