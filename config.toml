@@ -1,7 +1,12 @@
-baseurl = "http://www.oberlinmotionlab.com/"
+baseurl = "http://oberlinmotionlab.com/"
 languageCode = "en-us"
 title = "Oberlin Motion Lab"
 theme= "osprey"
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+canonifyURLs = true
 
 [Params]
   author = "Ezra Goss"
