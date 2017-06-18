@@ -10,7 +10,6 @@ canonifyURLs = true
 
 [Params]
   author = "Ezra Goss"
-  logoBig = "/images/logo.png"
   logoSmall = "/images/Mlogo.png"
   favicon = "/images/not.ico"
   copyright = false
