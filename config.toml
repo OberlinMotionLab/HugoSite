@@ -1,3 +1,4 @@
+baseurl = "http://www.oberlinmotionlab.com/"
 languageCode = "en-us"
 title = "Oberlin Motion Lab"
 theme= "osprey"
