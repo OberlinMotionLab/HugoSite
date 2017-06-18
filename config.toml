@@ -13,7 +13,6 @@ canonifyURLs = true
   logoBig = "/images/logo.png"
   logoSmall = "/images/Mlogo.png"
   favicon = "/images/not.ico"
-  copyright = true
 
 [[menu.main]]
   name = "Projects"
