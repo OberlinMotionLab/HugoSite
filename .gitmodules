@@ -3,5 +3,5 @@
 	url = https://github.com/OberlinMotionLab/OberlinMotionLab.github.io.git
 
 [submodule "themes/osprey"]
-  path = themes/osprey
-  url = https://github.com/tomanistor/osprey.git
+	path = themes/osprey
+	url = https://github.com/tomanistor/osprey.git
