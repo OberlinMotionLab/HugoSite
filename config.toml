@@ -8,10 +8,12 @@ publishDir = "public"
 buildDrafts = false
 canonifyURLs = true
 
+
 [Params]
+  tagline = "Oberlin Motion Lab"
   author = "Ezra Goss"
-  logoBig = "/images/workinglogo.png"
-  logoSmall = "/images/workinglogo.png"
+  logoBig = "/images/MutedYellowGreen.png"
+  logoSmall = "/images/MutedYellowGreen.png"
   favicon = "favicon.ico"
   copyright = true
   customCSS = false
