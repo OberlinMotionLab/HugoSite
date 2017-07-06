@@ -42,6 +42,7 @@ If that doesn't make sense, then look at the folders in our code at the top of t
 - public @ ed66245/
 - static/
 - themes/
+
 Now click on the public folder.
 
 See how the whole repository changed? It brought you to our other repository that we use to house the published content for the site. 
