@@ -14,7 +14,7 @@ canonifyURLs = true
   author = "Ezra Goss"
   logoBig = "/images/MutedYellowGreen.png"
   logoSmall = "/images/MutedYellowGreen.png"
-  favicon = "favicon.ico"
+  favicon = "favicon-16x16.png"
   copyright = true
   customCSS = false
 
